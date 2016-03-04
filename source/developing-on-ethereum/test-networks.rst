@@ -92,6 +92,15 @@ Two ways to obtain Morden testnet ether:
    Finish Morden Testnet Section
 
 
+Blockexplorers for Morden Testnet
+--------------------------------------------------------------------------------
+
+These are the available pulibc block explorers for Morden Testnet:
+
+- http://testnet.etherscan.io
+
+
+Two ways to obtain Morden testnet ether:
 Setting Up a Local Private Testnet
 ================================================================================
 You either pre-generate or mine your own Ether on a private
